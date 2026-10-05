@@ -1,0 +1,12 @@
+[project]
+name = "trader-broadcaster"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Haifisch92", email = "aiellogabriel.92@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "websockets>=17.2",
+]
